@@ -1,0 +1,7 @@
+ # Como eu criei meu primeiro repositório
+*criei o meu repositorio e marquei em public e iniciei o repositorio com README*
+*fiz um clone com o comando (git clone https://github.com/FrankBitencourt/github_repository)*
+*criei este arquivo com o comando(notepad arquivoinformacao.txt)*
+*depois adiocionei com (git add arquivoinformacao.txt)*
+*depois commitei (git commit -m "arquivoinformacao")*
+*depois fiz um pull (git push origin master)*
